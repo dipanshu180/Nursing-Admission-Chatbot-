@@ -1,0 +1,14 @@
+fee 1000
+fees 800
+hostel 700
+location 900
+training 950
+scholarship 850
+recognition 600
+program 900
+biology 800
+bsc 1000
+nursing 1000
+delhi 950
+hospital 900
+seats 700
